@@ -1,0 +1,10 @@
+.env
+__pycache__/
+*.xlsx
+output/
+brain/
+*.pyc
+config.json
+*.session
+session_data.json
+config_blog_analyzer.json
